@@ -1,5 +1,5 @@
 #  :musical_score: AI-Composer
-- 본 저장소는 Piano_Midi file들을 딥러닝을 통해 AI 학습하여 자동적으로 작곡을 하는 AI-Composer 프로젝트를 정리한 공간입니다.
+- 본 저장소는 Piano_Midi File들을 딥러닝을 통해 AI가 학습하여 자동적으로 작곡을 하는 AI-Composer 프로젝트를 정리한 공간입니다.
 - 이용자가 원하는 스타일의 음악을 저작권 없이 무료로 사용할 수 있도록 돕기 위해 진행한 프로젝트입니다.
 
 ## :notebook_with_decorative_cover: 프로젝트 기간
