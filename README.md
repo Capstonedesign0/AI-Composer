@@ -12,4 +12,5 @@
 - 장재영, 강동현
 
 ## :mag: 설치 및 학습 
-- Clone repository
+* Clone repository  
+`git clone https://github.com/Capstonedesign0/AI-Composer.git`
